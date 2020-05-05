@@ -1,2 +1,2 @@
 # Python course
- Pythin course iNeuron course
+ Python course iNeuron course
